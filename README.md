@@ -1,3 +1,5 @@
+[![Netlify Status](https://api.netlify.com/api/v1/badges/11948fb5-34e5-4d59-823f-6790022b6293/deploy-status?branch=main)](https://app.netlify.com/sites/the-wild-oasis-nextjs-project/deploys)
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
